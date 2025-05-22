@@ -1,0 +1,8 @@
+yc_token         = "<token>"
+yc_cloud_id      = "<yc_cloud_id>"
+yc_folder_id     = "<yc_folder_id>"
+yc_zone          = "ru-central1-a"
+bucket_name      = "mlops-lab-ajejnskv56c93jbqt7pd"
+bucket_access_key = "<bucket_access_key>"
+bucket_secret_key = "<bucket_secret_key>"
+kms_key_id       = "your-kms-key-id" 
