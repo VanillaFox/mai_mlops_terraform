@@ -47,3 +47,6 @@ terraform apply
 ## Выходные параметры
 - `bucket_name` — имя созданного бакета
 - `bucket_domain_name` — доменное имя бакета
+
+## Результат
+![](images/bucket.png)
